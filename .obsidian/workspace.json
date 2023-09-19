@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023_school/독서/평가원 제재별 질문 목록.md",
+                "file": "2023_school/독서/평가원 제재별 질문 목록(수업활용.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "3140cb1392400b32",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023_school/독서/평가원 제재별 질문 목록.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023_school/독서/평가원 제재별 질문 목록.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2023_school/독서/평가원 제재별 질문 목록.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,9 +151,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "881812a3128556cf",
+  "active": "86618829a86fd9bd",
   "lastOpenFiles": [
-    "2023_school/독서/평가원 제재별 질문 목록.md",
+    "2023_school/세특/2023 현문감",
+    "2023_school/독서/평가원 제재별 질문 목록(수업활용.md",
+    "2023_school/세특",
+    "2023_school/세특/2023 독서 자료",
+    "글스타그램 자료/교육",
+    "글스타그램 자료/일상",
     "README.md",
     "글스타그램 자료",
     "2023_school/독서",
