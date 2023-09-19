@@ -1,1 +1,1 @@
-def hello_obsidian
+1. this is for my private notes via obsidian, however there are some 
