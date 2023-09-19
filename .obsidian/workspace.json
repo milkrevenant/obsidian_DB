@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023_school/세특/2023 독서 자료/구술평가 자료 요약 필요.md",
+                "file": "2023_school/세특/2023 현문감/학생 활동자료 생성 필요.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2023_school/세특/2023 현문감/학생 활동자료 생성 필요.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,6 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2023_school/세특/2023 현문감/학생 활동자료 생성 필요.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "2023_school/세특/2023 현문감/학생 활동자료 생성 필요.md"
               }
             }
           }
@@ -201,12 +203,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "86618829a86fd9bd",
+  "active": "0bdb4eb1c45d5c5f",
   "lastOpenFiles": [
+    "Untitled.md",
+    "2023_school/세특/2023 현문감/6반",
+    "2023_school/세특/2023 현문감/5반",
+    "2023_school/세특/2023 현문감/4반",
+    "2023_school/세특/2023 현문감/3반",
+    "2023_school/세특/2023 현문감/2반",
     "2023_school/세특/2023 현문감/1반",
     "1",
     "2023_school/세특/2023 독서 자료/구술평가 자료 요약 필요.md",
-    "Untitled.md",
     "2023_school/세특/2023 현문감/학생 활동자료 생성 필요.md",
     "해야 할 일.md",
     "README.md",
@@ -215,12 +222,6 @@
     "2023_school/독서/평가원 제재별 질문 목록(수업활용.md",
     "글스타그램 자료/영화",
     "2023_school/세특/2023 현문감",
-    "2023_school/세특",
-    "2023_school/세특/2023 독서 자료",
-    "글스타그램 자료/교육",
-    "글스타그램 자료/일상",
-    "글스타그램 자료",
-    "2023_school/독서",
-    "2023_school"
+    "2023_school/세특"
   ]
 }
