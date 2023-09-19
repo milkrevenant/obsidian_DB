@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1bc96994cfa0ce6a",
@@ -159,7 +160,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3140cb1392400b32",
+  "active": "86618829a86fd9bd",
   "lastOpenFiles": [
     "README.md",
     "2023_school/세특/2023 현문감",
