@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ec609c0fb367d60e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "블로그/글스타그램 자료/일상/조급 급한 요즘(2023.09.25.).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "블로그/초안들/국어교육에서의 chatgpt 활용.md",
+                "file": "블로그/글스타그램 자료/일상/조급 급한 요즘(2023.09.25.).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "블로그/초안들/국어교육에서의 chatgpt 활용.md",
+                "file": "블로그/글스타그램 자료/일상/조급 급한 요즘(2023.09.25.).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "블로그/초안들/국어교육에서의 chatgpt 활용.md"
+                "file": "블로그/글스타그램 자료/일상/조급 급한 요즘(2023.09.25.).md"
               }
             }
           }
@@ -160,10 +172,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d15d570ffdd31bb6",
+  "active": "ec609c0fb367d60e",
   "lastOpenFiles": [
-    "해야 할 일.md",
     "블로그/초안들/국어교육에서의 chatgpt 활용.md",
+    "블로그/글스타그램 자료/일상/조급 급한 요즘(2023.09.25.).md",
+    "해야 할 일.md",
     "블로그/기존 티스토리 퇴고중",
     "블로그/초안들",
     "블로그",
