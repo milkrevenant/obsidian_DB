@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "블로그/글스타그램 자료/일상/조급 급한 요즘(2023.09.25.).md",
+                "file": "블로그/초안들/국어교육에서의 chatgpt 활용.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "블로그/글스타그램 자료/일상/조급 급한 요즘(2023.09.25.).md",
+                "file": "블로그/초안들/국어교육에서의 chatgpt 활용.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "블로그/글스타그램 자료/일상/조급 급한 요즘(2023.09.25.).md"
+                "file": "블로그/초안들/국어교육에서의 chatgpt 활용.md"
               }
             }
           }
@@ -172,10 +172,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ec609c0fb367d60e",
+  "active": "d15d570ffdd31bb6",
   "lastOpenFiles": [
-    "블로그/초안들/국어교육에서의 chatgpt 활용.md",
     "블로그/글스타그램 자료/일상/조급 급한 요즘(2023.09.25.).md",
+    "블로그/초안들/국어교육에서의 chatgpt 활용.md",
     "해야 할 일.md",
     "블로그/기존 티스토리 퇴고중",
     "블로그/초안들",
