@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "블로그/초안들/국어교육에서의 chatgpt 활용 **<1>.md",
+                "file": "블로그/글스타그램 자료/일상/학생들을 통한 자기 성찰.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "블로그/초안들/국어교육에서의 chatgpt 활용 **<1>.md",
+                "file": "블로그/글스타그램 자료/일상/학생들을 통한 자기 성찰.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "블로그/초안들/국어교육에서의 chatgpt 활용 **<1>.md"
+                "file": "블로그/글스타그램 자료/일상/학생들을 통한 자기 성찰.md"
               }
             }
           }
@@ -172,15 +172,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d15d570ffdd31bb6",
+  "active": "ec609c0fb367d60e",
   "lastOpenFiles": [
+    "블로그/초안들/국어교육에서의 chatgpt 활용 **<1>.md",
+    "해야 할 일.md",
     "블로그/글스타그램 자료/일상/학생들을 통한 자기 성찰.md",
     "2023_school/독서/평가원 제재별 질문 목록(수업활용.md",
     "2023_school/국어외/인텔 포럼 요약 내용.md",
     "2023_school/국어외/kentech alc 과제.md",
     "학교 업무/리로스쿨 자료 비교.md",
-    "블로그/초안들/국어교육에서의 chatgpt 활용 **<1>.md",
-    "해야 할 일.md",
     "블로그/기존 티스토리 퇴고중",
     "블로그/초안들",
     "블로그",
