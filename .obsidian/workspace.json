@@ -1,64 +1,52 @@
 {
   "main": {
-    "id": "ca49e4d2eaae54f5",
+    "id": "0fd4edb30888915e",
     "type": "split",
     "children": [
       {
-        "id": "4483c3c89e2d9afd",
+        "id": "d14d5c2e63c0bcc5",
         "type": "tabs",
         "children": [
           {
-            "id": "2e8187f03307d1a1",
+            "id": "cdaf2f2ef026b599",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "해야 할 일.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d15d570ffdd31bb6",
+            "id": "c937520d18a6b9ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "블로그/초안들/국어교육에서의 chatgpt 활용 **<1>.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec609c0fb367d60e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "블로그/글스타그램 자료/일상/학생들을 통한 자기 성찰.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "7865d39484501756",
+    "id": "fec51bc9794156b0",
     "type": "split",
     "children": [
       {
-        "id": "714be895eaf2220c",
+        "id": "55e8f37a10b214c7",
         "type": "tabs",
         "children": [
           {
-            "id": "86618829a86fd9bd",
+            "id": "f858338cb639d711",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -68,7 +56,7 @@
             }
           },
           {
-            "id": "40f3309f43862614",
+            "id": "2b2bd28f53a63175",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -83,7 +71,7 @@
             }
           },
           {
-            "id": "146b80b55789d494",
+            "id": "832b51fa8a272513",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -97,20 +85,20 @@
     "width": 300
   },
   "right": {
-    "id": "1bc96994cfa0ce6a",
+    "id": "b4a01e5395888130",
     "type": "split",
     "children": [
       {
-        "id": "42f735d8de73505c",
+        "id": "6de3fc6af0b80cd5",
         "type": "tabs",
         "children": [
           {
-            "id": "ff78087430755a37",
+            "id": "ce3b253b312eb6ec",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "블로그/글스타그램 자료/일상/학생들을 통한 자기 성찰.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,19 +110,19 @@
             }
           },
           {
-            "id": "b31ffa77e9581e60",
+            "id": "e71f363b4ad56ad5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "블로그/글스타그램 자료/일상/학생들을 통한 자기 성찰.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "8911230e2ef26a44",
+            "id": "61f9f7971aa784c2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,12 +133,12 @@
             }
           },
           {
-            "id": "2dd95c579c3f733f",
+            "id": "5c7edd121ecc3fc3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "블로그/글스타그램 자료/일상/학생들을 통한 자기 성찰.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -158,55 +146,28 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ec609c0fb367d60e",
+  "active": "c937520d18a6b9ea",
   "lastOpenFiles": [
-    "블로그/초안들/국어교육에서의 chatgpt 활용 **<1>.md",
-    "해야 할 일.md",
-    "블로그/글스타그램 자료/일상/학생들을 통한 자기 성찰.md",
-    "2023_school/독서/평가원 제재별 질문 목록(수업활용.md",
-    "2023_school/국어외/인텔 포럼 요약 내용.md",
-    "2023_school/국어외/kentech alc 과제.md",
-    "학교 업무/리로스쿨 자료 비교.md",
-    "블로그/기존 티스토리 퇴고중",
-    "블로그/초안들",
-    "블로그",
-    "학교 업무/학교 회의.md",
-    "평가 자료 생성.md",
-    "학교 업무",
-    "2023_school/세특/2023 현문감/학생 활동자료 생성 필요.md",
-    "2023_school/세특/2023 독서 자료/구술평가 자료 요약 필요.md",
-    "블로그/글스타그램 자료/영화/오펜하이머를 보고 난 후.md",
-    "블로그/글스타그램 자료/일상/이창동 감독님 뵙고 나서.md",
     "README.md",
-    "2023_school/국어외",
-    "블로그/글스타그램 자료/일상",
-    "블로그/글스타그램 자료/영화",
-    "2023_school/세특/2023 현문감",
-    "2023_school/세특/2023 독서 자료",
-    "2023_school/독서",
-    "obsidian_DB/2023_school/세특/2023 현문감/학생 활동자료 생성 필요.md",
-    "obsidian_DB/2023_school/세특/2023 독서 자료/구술평가 자료 요약 필요.md",
-    "obsidian_DB/글스타그램 자료/일상/이창동 감독님 뵙고 나서.md",
-    "obsidian_DB/2023_school/독서/평가원 제재별 질문 목록(수업활용.md",
-    "obsidian_DB/글스타그램 자료/영화/오펜하이머를 보고 난 후.md",
-    "obsidian_DB/평가 자료 생성.md",
-    "obsidian_DB/해야 할 일.md",
-    "obsidian_DB/README.md",
-    "obsidian_DB/학교 회의.md",
-    "학교 업무.md"
+    "conflict-files-obsidian-git.md",
+    "2023_school/국어외/kentech alc 과제.md",
+    "2023_school/국어외/인텔 포럼 요약 내용.md",
+    "2023_school/독서/평가원 제재별 질문 목록(수업활용.md",
+    "2023_school/세특/2023 독서 자료/구술평가 자료 요약 필요.md",
+    "2023_school/세특/2023 현문감/학생 활동자료 생성 필요.md",
+    "블로그/초안들/국어교육에서의 chatgpt 활용.md"
   ]
 }
