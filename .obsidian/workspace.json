@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "983d78b78479f7f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023_school/독서/수행평가/4반.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b086055ce9a0317",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023_school/독서/수행평가/5반.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f9ea72446f3a8d29",
             "type": "leaf",
             "state": {
@@ -195,13 +171,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f858338cb639d711",
+  "active": "f582b7216ac7cc9e",
   "lastOpenFiles": [
-    "2023_school/독서/수행평가/6반.md",
+    "2023_school/국어외/창의융합원 발표자료/창의융합원 발표자료.md",
+    "2023_school/국어외/연수/ai디지털교과서 순천 연수_20.md",
     "2023_school/독서/수행평가/5반.md",
     "2023_school/독서/수행평가/4반.md",
+    "2023_school/독서/수행평가/6반.md",
     "2023_school/독서/수행평가/3반.md",
-    "2023_school/국어외/연수/ai디지털교과서 순천 연수_20.md",
     "2023_school/독서/수행평가/2반.md",
     "2023_school/독서/수행평가/1반.md",
     "2023_school/독서/수행평가/무제 폴더/무제 폴더",
@@ -209,7 +186,6 @@
     "2023_school/독서/수행평가",
     "2023_school/국어외/연수/이진석선생님 연수_231019.md",
     "평가 자료 생성.md",
-    "2023_school/국어외/창의융합원 발표자료/창의융합원 발표자료.md",
     "2023_school/국어외/연수",
     "2023_school/국어외/창의융합원 발표자료/창의융합원 자료1.png",
     "2023_school/국어외/창의융합원 발표자료",
