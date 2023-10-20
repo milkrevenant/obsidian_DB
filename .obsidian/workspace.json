@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023_school/국어외/이진석선생님 연수 - 231019.md",
+                "file": "2023_school/국어외/연수/이진석선생님 연수 - 231019.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f582b7216ac7cc9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023_school/국어외/연수/ai디지털교과서 연수_순천.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023_school/국어외/창의융합원 발표자료/창의융합원 발표자료.md",
+                "file": "2023_school/국어외/연수/ai디지털교과서 연수_순천.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023_school/국어외/창의융합원 발표자료/창의융합원 발표자료.md",
+                "file": "2023_school/국어외/연수/ai디지털교과서 연수_순천.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023_school/국어외/창의융합원 발표자료/창의융합원 발표자료.md"
+                "file": "2023_school/국어외/연수/ai디지털교과서 연수_순천.md"
               }
             }
           }
@@ -171,11 +183,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f72eb87f0b46d67b",
+  "active": "f858338cb639d711",
   "lastOpenFiles": [
+    "2023_school/국어외/창의융합원 발표자료/창의융합원 발표자료.md",
+    "2023_school/국어외/연수/ai디지털교과서 연수_순천.md",
+    "2023_school/국어외/연수",
     "2023_school/국어외/창의융합원 발표자료/창의융합원 자료1.png",
     "2023_school/국어외/창의융합원 발표자료",
-    "2023_school/국어외/창의융합원 발표자료/창의융합원 발표자료.md",
     "평가 자료 생성.md",
     "해야 할 일.md",
     "블로그/초안들/국어교육에서의 chatgpt 활용2.md",
@@ -187,7 +201,7 @@
     "2023_school/독서/작가와의 대화 자료/작가와의대화qr.png",
     "2023_school/독서/작가와의 대화 자료/작가와의대화qr2.png",
     "2023_school/독서/작가와의 대화 자료",
-    "2023_school/국어외/이진석선생님 연수 - 231019.md",
+    "2023_school/국어외/연수/이진석선생님 연수 - 231019.md",
     "2023_school/국어외/인텔 포럼 요약 내용.md",
     "학교 업무/학교 회의.md",
     "학교 업무/리로스쿨 자료 비교.md",
