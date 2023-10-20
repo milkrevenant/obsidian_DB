@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f72eb87f0b46d67b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023_school/국어외/창의융합원 발표자료/창의융합원 발표자료.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "평가 자료 생성.md",
+                "file": "2023_school/국어외/창의융합원 발표자료/창의융합원 발표자료.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "평가 자료 생성.md",
+                "file": "2023_school/국어외/창의융합원 발표자료/창의융합원 발표자료.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "평가 자료 생성.md"
+                "file": "2023_school/국어외/창의융합원 발표자료/창의융합원 발표자료.md"
               }
             }
           }
@@ -159,27 +171,30 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b58411b0a733b6ea",
+  "active": "f72eb87f0b46d67b",
   "lastOpenFiles": [
+    "2023_school/국어외/창의융합원 발표자료/창의융합원 자료1.png",
+    "2023_school/국어외/창의융합원 발표자료",
+    "2023_school/국어외/창의융합원 발표자료/창의융합원 발표자료.md",
+    "평가 자료 생성.md",
     "해야 할 일.md",
-    "README.md",
+    "블로그/초안들/국어교육에서의 chatgpt 활용2.md",
+    "블로그/초안들/국어교육에서의 chatgpt 활용.md",
+    "2023_school/세특/2023 독서 자료/구술평가 자료 요약 필요.md",
+    "2023_school/독서/평가원 제재별 질문 목록(수업활용).md",
     "2023_school/독서/작가와의 대화 자료/작가와의 대화 일정.md",
+    "README.md",
     "2023_school/독서/작가와의 대화 자료/작가와의대화qr.png",
     "2023_school/독서/작가와의 대화 자료/작가와의대화qr2.png",
     "2023_school/독서/작가와의 대화 자료",
     "2023_school/국어외/이진석선생님 연수 - 231019.md",
     "2023_school/국어외/인텔 포럼 요약 내용.md",
-    "평가 자료 생성.md",
-    "블로그/초안들/국어교육에서의 chatgpt 활용2.md",
     "학교 업무/학교 회의.md",
     "학교 업무/리로스쿨 자료 비교.md",
-    "블로그/초안들/국어교육에서의 chatgpt 활용.md",
     "2023_school/세특/2023 현문감/학생 활동자료 생성 필요.md",
     "블로그/글스타그램 자료/일상/학생들을 통한 자기 성찰.md",
     "블로그/글스타그램 자료/일상/이창동 감독님 뵙고 나서.md",
     "conflict-files-obsidian-git.md",
-    "2023_school/국어외/kentech alc 과제.md",
-    "2023_school/독서/평가원 제재별 질문 목록(수업활용.md",
-    "2023_school/세특/2023 독서 자료/구술평가 자료 요약 필요.md"
+    "2023_school/국어외/kentech alc 과제.md"
   ]
 }
