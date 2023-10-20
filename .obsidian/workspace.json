@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "작가와의 대화 일정.md",
+                "file": "평가 자료 생성.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "작가와의 대화 일정.md",
+                "file": "평가 자료 생성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "작가와의 대화 일정.md",
+                "file": "평가 자료 생성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "작가와의 대화 일정.md"
+                "file": "평가 자료 생성.md"
               }
             }
           }
@@ -161,15 +161,16 @@
   },
   "active": "b58411b0a733b6ea",
   "lastOpenFiles": [
-    "Pasted image 20231020110530.png",
-    "Pasted image 20231020110513.png",
-    "2023_school/국어외/이진석선생님 연수 - 231019.md",
-    "작가와의 대화 일정.md",
-    "2023_school/국어외/인텔 포럼 요약 내용.md",
     "해야 할 일.md",
+    "README.md",
+    "2023_school/독서/작가와의 대화 자료/작가와의 대화 일정.md",
+    "2023_school/독서/작가와의 대화 자료/작가와의대화qr.png",
+    "2023_school/독서/작가와의 대화 자료/작가와의대화qr2.png",
+    "2023_school/독서/작가와의 대화 자료",
+    "2023_school/국어외/이진석선생님 연수 - 231019.md",
+    "2023_school/국어외/인텔 포럼 요약 내용.md",
     "평가 자료 생성.md",
     "블로그/초안들/국어교육에서의 chatgpt 활용2.md",
-    "README.md",
     "학교 업무/학교 회의.md",
     "학교 업무/리로스쿨 자료 비교.md",
     "블로그/초안들/국어교육에서의 chatgpt 활용.md",
