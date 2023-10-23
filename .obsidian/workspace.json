@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7c7acc400a87d03f",
@@ -162,10 +163,10 @@
   },
   "active": "a58068b73a23bc16",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "2023_school/세특/2023 독서 자료/구술평가 배포용.md",
     "2023_school/독서/수행평가/2반.md",
+    "conflict-files-obsidian-git.md",
     "2023_school/독서/수행평가/4반.md",
-    "2023_school/독서/수행평가/3반.md",
-    "2023_school/세특/2023 독서 자료/구술평가 배포용.md"
+    "2023_school/독서/수행평가/3반.md"
   ]
 }
