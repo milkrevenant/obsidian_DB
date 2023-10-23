@@ -4,46 +4,107 @@
     "type": "split",
     "children": [
       {
-        "id": "d14d5c2e63c0bcc5",
+        "id": "dd3f72a8bc3ae03a",
         "type": "tabs",
         "children": [
           {
-            "id": "f9ea72446f3a8d29",
+            "id": "ba88279ca30851e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023_school/국어외/연수/ai디지털교과서 순천 연수_20.md",
+                "file": "2023_school/독서/수행평가/4반.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f72eb87f0b46d67b",
+            "id": "25eb42396ad4f99e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023_school/국어외/창의융합원 발표자료/창의융합원 발표자료.md",
+                "file": "2023_school/독서/수행평가/4반.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f582b7216ac7cc9e",
+            "id": "03becc06bd103b7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023_school/국어외/연수/ai디지털교과서 순천 연수_20.md",
+                "file": "2023_school/독서/수행평가/4반.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a00a03379a94e50f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023_school/독서/수행평가/4반.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "358dfbcacc8a1c0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023_school/독서/수행평가/4반.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e181dedef5532e87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023_school/독서/수행평가/4반.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d701a540c0159f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023_school/독서/수행평가/4반.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36942cb5f61d541c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -109,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023_school/국어외/연수/ai디지털교과서 순천 연수_20.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023_school/국어외/연수/ai디지털교과서 순천 연수_20.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023_school/국어외/연수/ai디지털교과서 순천 연수_20.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -170,16 +231,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f9ea72446f3a8d29",
+  "active": "36942cb5f61d541c",
   "lastOpenFiles": [
-    "2023_school/국어외/창의융합원 발표자료/창의융합원 발표자료.md",
-    "2023_school/국어외/연수/ai디지털교과서 순천 연수_20.md",
-    "2023_school/독서/수행평가/5반.md",
     "2023_school/독서/수행평가/4반.md",
-    "2023_school/독서/수행평가/6반.md",
+    "conflict-files-obsidian-git.md",
+    "2023_school/독서/수행평가/5반.md",
     "2023_school/독서/수행평가/3반.md",
     "2023_school/독서/수행평가/2반.md",
     "2023_school/독서/수행평가/1반.md",
+    "2023_school/국어외/연수/ai디지털교과서 순천 연수_20.md",
+    "2023_school/독서/수행평가/2-1반.md",
+    "2023_school/독서/수행평가/2-6반.md",
+    "2023_school/독서/수행평가/2-5반.md",
+    "2023_school/독서/수행평가/2-4반.md",
+    "2023_school/독서/수행평가/2-3반.md",
+    "2023_school/독서/수행평가/2-2반.md",
+    "2023_school/국어외/창의융합원 발표자료/창의융합원 발표자료.md",
+    "2023_school/독서/수행평가/6반.md",
     "2023_school/독서/수행평가/무제 폴더/무제 폴더",
     "2023_school/독서/수행평가/무제 폴더",
     "2023_school/독서/수행평가",
@@ -199,12 +267,6 @@
     "2023_school/독서/작가와의 대화 자료/작가와의대화qr2.png",
     "2023_school/독서/작가와의 대화 자료",
     "2023_school/국어외/인텔 포럼 요약 내용.md",
-    "학교 업무/학교 회의.md",
-    "학교 업무/리로스쿨 자료 비교.md",
-    "2023_school/세특/2023 현문감/학생 활동자료 생성 필요.md",
-    "블로그/글스타그램 자료/일상/학생들을 통한 자기 성찰.md",
-    "블로그/글스타그램 자료/일상/이창동 감독님 뵙고 나서.md",
-    "conflict-files-obsidian-git.md",
-    "2023_school/국어외/kentech alc 과제.md"
+    "학교 업무/학교 회의.md"
   ]
 }
