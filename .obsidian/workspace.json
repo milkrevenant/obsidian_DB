@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a58068b73a23bc16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023_school/독서/수행평가/2반.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e620f5f0dd61fed3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023_school/독서/수행평가/2반.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7474a7e2449c71b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023_school/독서/수행평가/5반.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b373b3ec9f6ac8f1",
             "type": "leaf",
             "state": {
@@ -55,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,10 +149,10 @@
   },
   "active": "b373b3ec9f6ac8f1",
   "lastOpenFiles": [
-    "2023_school/독서/수행평가/5반.md",
-    "블로그/글스타그램 자료/영화/그대들, 어떻게 살 것인가.md",
-    "2023_school/독서/수행평가/4반.md",
     "2023_school/독서/수행평가/2반.md",
+    "블로그/글스타그램 자료/영화/그대들, 어떻게 살 것인가.md",
+    "2023_school/독서/수행평가/5반.md",
+    "2023_school/독서/수행평가/4반.md",
     "2023_school/국어외/창의융합원 발표자료/창의융합원 발표자료.md",
     "2023_school/독서/수행평가/3반.md",
     "conflict-files-obsidian-git.md",
