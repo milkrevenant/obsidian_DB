@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "25d6f76d04c0237f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "블로그/글스타그램 자료/일상/옛 이야기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023_school/독서/수행평가/4반.md",
+                "file": "블로그/글스타그램 자료/일상/옛 이야기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023_school/독서/수행평가/4반.md",
+                "file": "블로그/글스타그램 자료/일상/옛 이야기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023_school/독서/수행평가/4반.md"
+                "file": "블로그/글스타그램 자료/일상/옛 이야기.md"
               }
             }
           },
@@ -168,10 +180,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "60590a45de4cf6ff",
+  "active": "25d6f76d04c0237f",
   "lastOpenFiles": [
-    "2023_school/독서/수행평가/5반.md",
     "2023_school/독서/수행평가/4반.md",
+    "블로그/글스타그램 자료/일상/옛 이야기.md",
+    "2023_school/독서/수행평가/5반.md",
     "2023_school/독서/수행평가/3반.md",
     "2023_school/독서/수행평가/2반.md",
     "2023_school/독서/수행평가/6반.md",
