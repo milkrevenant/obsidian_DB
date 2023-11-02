@@ -1,39 +1,60 @@
 {
   "main": {
-    "id": "8b0d3a8b8dd1e076",
+    "id": "7184b8b029e34a1c",
     "type": "split",
     "children": [
       {
-        "id": "fb46acb53fe49e28",
+        "id": "f5c013628701ce92",
         "type": "tabs",
         "children": [
           {
-            "id": "60590a45de4cf6ff",
+            "id": "b73a2806cd220b3c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "cd2785fdbcb9a49b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023_school/독서/수행평가/5반.md",
+                "file": "2023_school/독서/수행평가/3반.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c1bfbf19dce8356",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "779560533c350820",
+    "id": "7d439d69d5954f9d",
     "type": "split",
     "children": [
       {
-        "id": "feafde67298ec15f",
+        "id": "dea198287fb7ca56",
         "type": "tabs",
         "children": [
           {
-            "id": "a56096f27a378da3",
+            "id": "4c8f129efbe6acd3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +64,7 @@
             }
           },
           {
-            "id": "a0c62b0951c4b940",
+            "id": "25a627f541484b9f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +79,7 @@
             }
           },
           {
-            "id": "1646e5c88da16de1",
+            "id": "08615ef130925d44",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +93,20 @@
     "width": 300
   },
   "right": {
-    "id": "7c7acc400a87d03f",
+    "id": "4a9a7b917ecd41ce",
     "type": "split",
     "children": [
       {
-        "id": "46e0d1653c31d2d1",
+        "id": "55e1653147f364ef",
         "type": "tabs",
         "children": [
           {
-            "id": "69f4088fb67f0547",
+            "id": "9fa22da65ade05ee",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023_school/독서/수행평가/5반.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +118,19 @@
             }
           },
           {
-            "id": "b104cc95e96a8be1",
+            "id": "8fb5fac8a49902f1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023_school/독서/수행평가/5반.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "6373cfa75d00ef94",
+            "id": "13e4e0a5fe3c713a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,25 +141,16 @@
             }
           },
           {
-            "id": "78ac24a755f19177",
+            "id": "052c38586283191a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023_school/독서/수행평가/5반.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
-          },
-          {
-            "id": "02863f08932a45a4",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,36 +159,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "60590a45de4cf6ff",
+  "active": "3c1bfbf19dce8356",
   "lastOpenFiles": [
-    "2023_school/독서/수행평가/4반.md",
-    "블로그/글스타그램 자료/영화/그대들, 어떻게 살 것인가.md",
-    "2023_school/독서/수행평가/5반.md",
-    "2023_school/독서/수행평가/2반.md",
     "2023_school/독서/수행평가/3반.md",
-    "2023_school/독서/수행평가/6반.md",
-    "2023_school/독서/수행평가/1반.md",
-    "IDEA/동아리 개편.md",
-    "평가 자료 생성.md",
-    "IDEA",
-    "2023_school/국어외/연수/이진석선생님 연수_231019.md",
-    "2023_school/국어외/연수/ai디지털교과서 순천 연수_20.md",
-    "블로그/초안들/국어교육에서의 chatgpt 활용.md",
-    "블로그/초안들/국어교육에서의 chatgpt 활용2.md",
-    "2023_school/국어외/창의융합원 발표자료/창의융합원 발표자료.md",
-    "conflict-files-obsidian-git.md",
-    "2023_school/세특/2023 독서 자료/구술평가 배포용.md",
-    "해야 할 일.md",
-    "README.md",
-    "2023_school/세특/2023 현문감/학생 활동자료 생성 필요.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
