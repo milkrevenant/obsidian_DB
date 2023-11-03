@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023_school/독서/무제 파일.md",
+                "file": "2023_school/독서/연구수업 피드백.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023_school/독서/무제 파일.md",
+                "file": "2023_school/독서/연구수업 피드백.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023_school/독서/무제 파일.md",
+                "file": "2023_school/독서/연구수업 피드백.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023_school/독서/무제 파일.md"
+                "file": "2023_school/독서/연구수업 피드백.md"
               }
             }
           }
@@ -180,10 +180,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4c8f129efbe6acd3",
+  "active": "2d681656def7d22f",
   "lastOpenFiles": [
     "2023_school/독서/해야 할 일.md",
-    "2023_school/독서/무제 파일.md",
+    "2023_school/독서/연구수업 피드백.md",
     "2023_school/독서/수행평가/6반.md",
     "2023_school/독서/수행평가/5반.md",
     "2023_school/독서/수행평가/1반.md",
