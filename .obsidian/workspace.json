@@ -40,18 +40,6 @@
             }
           },
           {
-            "id": "2d681656def7d22f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023_school/독서/수행평가/1반.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fb17edf70b568697",
             "type": "leaf",
             "state": {
@@ -64,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
