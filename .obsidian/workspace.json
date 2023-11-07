@@ -1,5 +1,6 @@
 {
   "main": {
+<<<<<<< HEAD
     "id": "15cb3333309f71a0",
     "type": "split",
     "children": [
@@ -9,11 +10,26 @@
         "children": [
           {
             "id": "29e28a6ab2b824f0",
+=======
+    "id": "52ed9c4d1d9384e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c61ce0e549627bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0b57219d01f4d1f",
+>>>>>>> 0df85723fc2ae4d612cf7afb86c3233532585dcf
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "평가 자료 생성.md",
+=======
+                "file": "2023_school/독서/공개수업 자료준비.md",
+>>>>>>> 0df85723fc2ae4d612cf7afb86c3233532585dcf
                 "mode": "source",
                 "source": false
               }
@@ -25,6 +41,7 @@
     "direction": "vertical"
   },
   "left": {
+<<<<<<< HEAD
     "id": "67be0ee455207203",
     "type": "split",
     "children": [
@@ -34,6 +51,17 @@
         "children": [
           {
             "id": "273c03bf69429271",
+=======
+    "id": "4f690f824e5c3132",
+    "type": "split",
+    "children": [
+      {
+        "id": "f38275520d348550",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21734069f7fdc32d",
+>>>>>>> 0df85723fc2ae4d612cf7afb86c3233532585dcf
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +71,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "60953ed2a703b3ca",
+=======
+            "id": "019a4475c2e23aa5",
+>>>>>>> 0df85723fc2ae4d612cf7afb86c3233532585dcf
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +90,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "2188ac6a5a4eda70",
+=======
+            "id": "d755f7ca5abf1395",
+>>>>>>> 0df85723fc2ae4d612cf7afb86c3233532585dcf
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,6 +108,7 @@
     "width": 300
   },
   "right": {
+<<<<<<< HEAD
     "id": "1540e11d89620e79",
     "type": "split",
     "children": [
@@ -81,11 +118,26 @@
         "children": [
           {
             "id": "c2baa1fad0d9b858",
+=======
+    "id": "d1c5e0e94ea05a80",
+    "type": "split",
+    "children": [
+      {
+        "id": "9dfad723ed62d68f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0101c2431b6b066a",
+>>>>>>> 0df85723fc2ae4d612cf7afb86c3233532585dcf
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "평가 자료 생성.md",
+=======
+                "file": "2023_school/독서/공개수업 자료준비.md",
+>>>>>>> 0df85723fc2ae4d612cf7afb86c3233532585dcf
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +149,31 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "423085244af7ce4f",
+=======
+            "id": "609f29ad3db9f6a4",
+>>>>>>> 0df85723fc2ae4d612cf7afb86c3233532585dcf
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "평가 자료 생성.md",
+=======
+                "file": "2023_school/독서/공개수업 자료준비.md",
+>>>>>>> 0df85723fc2ae4d612cf7afb86c3233532585dcf
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
+<<<<<<< HEAD
             "id": "54e7e21b0dccc65b",
+=======
+            "id": "4c339d206597b9ee",
+>>>>>>> 0df85723fc2ae4d612cf7afb86c3233532585dcf
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +184,20 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "ee328b98acfc3c76",
+=======
+            "id": "7de7f9a7048bdaad",
+>>>>>>> 0df85723fc2ae4d612cf7afb86c3233532585dcf
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "평가 자료 생성.md"
+=======
+                "file": "2023_school/독서/공개수업 자료준비.md"
+>>>>>>> 0df85723fc2ae4d612cf7afb86c3233532585dcf
               }
             }
           }
@@ -139,6 +211,7 @@
   "left-ribbon": {
     "hiddenItems": {
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+<<<<<<< HEAD
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -150,5 +223,21 @@
   "active": "273c03bf69429271",
   "lastOpenFiles": [
     "README.md"
+=======
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "e0b57219d01f4d1f",
+  "lastOpenFiles": [
+    "2023_school/독서/공개수업.md",
+    "2023_school/독서/수행평가/1반.md",
+    "2023_school/독서/수행평가/3반.md",
+    "2023_school/독서/수행평가/5반.md"
+>>>>>>> 0df85723fc2ae4d612cf7afb86c3233532585dcf
   ]
 }
