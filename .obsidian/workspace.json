@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023_school/독서/수행평가/5반.md",
+                "file": "2023_school/독서/수행평가/3반.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023_school/독서/수행평가/5반.md",
+                "file": "2023_school/독서/수행평가/3반.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023_school/독서/수행평가/5반.md",
+                "file": "2023_school/독서/수행평가/3반.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023_school/독서/수행평가/5반.md"
+                "file": "2023_school/독서/수행평가/3반.md"
               }
             }
           }
@@ -148,5 +148,7 @@
     }
   },
   "active": "e0b57219d01f4d1f",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "2023_school/독서/수행평가/5반.md"
+  ]
 }
