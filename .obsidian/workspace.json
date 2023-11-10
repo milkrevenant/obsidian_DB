@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "친목회.md",
+                "file": "- 의견 수렴.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "친목회.md",
+                "file": "- 의견 수렴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "친목회.md",
+                "file": "- 의견 수렴.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "친목회.md"
+                "file": "- 의견 수렴.md"
               }
             }
           }
@@ -163,7 +163,7 @@
   "active": "079bff38bd0d5543",
   "lastOpenFiles": [
     "해야 할 일.md",
-    "친목회.md",
+    "- 의견 수렴.md",
     "2023_school/독서/평가원 제재별 질문 목록(수업활용).md",
     "2023_school/독서/해야 할 일.md",
     "2023_school/독서/공개수업 자료준비.md",
