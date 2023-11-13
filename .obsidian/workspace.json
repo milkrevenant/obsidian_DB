@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "- 의견 수렴.md",
+                "file": "2023_school/독서/수행평가/4반.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d6827481169f997",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023_school/독서/수행평가/4반.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "- 의견 수렴.md",
+                "file": "2023_school/독서/수행평가/4반.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "- 의견 수렴.md",
+                "file": "2023_school/독서/수행평가/4반.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "- 의견 수렴.md"
+                "file": "2023_school/독서/수행평가/4반.md"
               }
             }
           }
@@ -160,10 +172,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "079bff38bd0d5543",
+  "active": "5d6827481169f997",
   "lastOpenFiles": [
-    "해야 할 일.md",
+    "conflict-files-obsidian-git.md",
+    "2023_school/독서/수행평가/4반.md",
     "- 의견 수렴.md",
+    "해야 할 일.md",
     "2023_school/독서/평가원 제재별 질문 목록(수업활용).md",
     "2023_school/독서/해야 할 일.md",
     "2023_school/독서/공개수업 자료준비.md",
@@ -171,7 +185,6 @@
     "README.md",
     "2023_school/독서/수행평가/2반.md",
     "2023_school/독서/수행평가/3반.md",
-    "2023_school/독서/수행평가/4반.md",
     "2023_school/독서/수행평가/5반.md",
     "2023_school/독서/수행평가/1반.md",
     "2023_school/독서/수행평가/6반.md"
