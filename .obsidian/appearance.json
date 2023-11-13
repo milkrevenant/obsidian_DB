@@ -1,13 +1,3 @@
 {
-  "accentColor": "",
-<<<<<<< HEAD
-  "baseFontSize": 15,
-=======
-<<<<<<< HEAD
-  "baseFontSize": 23,
-=======
-  "baseFontSize": 21,
->>>>>>> origin/main
->>>>>>> origin/main
-  "theme": "moonstone"
+  "accentColor": ""
 }
