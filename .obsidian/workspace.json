@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023_school/독서/수행평가/1반.md",
+                "file": "블로그/글스타그램 자료/일상/옛 이야기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf0b4fe787325f1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "블로그/글스타그램 자료/일상/수능 날.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023_school/독서/수행평가/1반.md",
+                "file": "블로그/글스타그램 자료/일상/수능 날.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023_school/독서/수행평가/1반.md",
+                "file": "블로그/글스타그램 자료/일상/수능 날.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023_school/독서/수행평가/1반.md"
+                "file": "블로그/글스타그램 자료/일상/수능 날.md"
               }
             }
           }
@@ -172,8 +184,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d6827481169f997",
+  "active": "bf0b4fe787325f1f",
   "lastOpenFiles": [
+    "블로그/글스타그램 자료/일상/옛 이야기.md",
+    "블로그/글스타그램 자료/일상/수능 날.md",
+    "2023_school/독서/수행평가/1반.md",
     "2023_school/독서/수행평가/6반.md",
     "2023_school/독서/수행평가/3반.md",
     "2023_school/독서/수행평가/5반.md",
@@ -186,7 +201,6 @@
     "2023_school/독서/공개수업 자료준비.md",
     "2023_school/독서/공개수업.md",
     "README.md",
-    "2023_school/독서/수행평가/2반.md",
-    "2023_school/독서/수행평가/1반.md"
+    "2023_school/독서/수행평가/2반.md"
   ]
 }
