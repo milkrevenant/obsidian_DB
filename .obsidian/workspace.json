@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "미래교육 코칭티처 연수 관련 내용.md",
+                "file": "블로그/초안들/국어교육에서의 chatgpt 활용2.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "미래교육 코칭티처 연수 관련 내용.md",
+                "file": "블로그/초안들/국어교육에서의 chatgpt 활용2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "미래교육 코칭티처 연수 관련 내용.md",
+                "file": "블로그/초안들/국어교육에서의 chatgpt 활용2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "미래교육 코칭티처 연수 관련 내용.md"
+                "file": "블로그/초안들/국어교육에서의 chatgpt 활용2.md"
               }
             }
           }
@@ -186,8 +186,9 @@
   },
   "active": "f763a2e89a99db09",
   "lastOpenFiles": [
-    "2023_school/독서/수행평가/1반.md",
+    "블로그/초안들/국어교육에서의 chatgpt 활용.md",
     "미래교육 코칭티처 연수 관련 내용.md",
+    "2023_school/독서/수행평가/1반.md",
     "블로그/글스타그램 자료/일상/옛 이야기.md",
     "2023_school/독서/수행평가/2-6반.md",
     "2023_school/독서/수행평가/2-2반.md",
@@ -210,7 +211,6 @@
     "2023_school/독서/평가원 제재별 질문 목록(수업활용).md",
     "2023_school/독서/해야 할 일.md",
     "2023_school/독서/공개수업 자료준비.md",
-    "2023_school/독서/공개수업.md",
-    "README.md"
+    "2023_school/독서/공개수업.md"
   ]
 }
