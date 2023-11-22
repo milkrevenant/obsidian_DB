@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "블로그/글스타그램 자료/일상/수능 날.md",
+                "file": "해야 할 일.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "블로그/글스타그램 자료/일상/수능 날.md",
+                "file": "해야 할 일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "블로그/글스타그램 자료/일상/수능 날.md",
+                "file": "해야 할 일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "블로그/글스타그램 자료/일상/수능 날.md"
+                "file": "해야 할 일.md"
               }
             }
           }
@@ -186,8 +186,11 @@
   },
   "active": "bf0b4fe787325f1f",
   "lastOpenFiles": [
-    "블로그/글스타그램 자료/일상/옛 이야기.md",
+    "README.md",
+    "해야 할 일.md",
+    "평가 자료 생성.md",
     "블로그/글스타그램 자료/일상/수능 날.md",
+    "블로그/글스타그램 자료/일상/옛 이야기.md",
     "2023_school/독서/수행평가/1반.md",
     "2023_school/독서/수행평가/6반.md",
     "2023_school/독서/수행평가/3반.md",
@@ -195,12 +198,10 @@
     "2023_school/독서/수행평가/4반.md",
     "conflict-files-obsidian-git.md",
     "- 의견 수렴.md",
-    "해야 할 일.md",
     "2023_school/독서/평가원 제재별 질문 목록(수업활용).md",
     "2023_school/독서/해야 할 일.md",
     "2023_school/독서/공개수업 자료준비.md",
     "2023_school/독서/공개수업.md",
-    "README.md",
     "2023_school/독서/수행평가/2반.md"
   ]
 }
