@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "학생 글 모음/지수환.md",
+                "file": "2023_school/독서/수행평가/1반.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "학생 글 모음/지수환.md",
+                "file": "2023_school/독서/수행평가/1반.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "학생 글 모음/지수환.md",
+                "file": "2023_school/독서/수행평가/1반.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "학생 글 모음/지수환.md"
+                "file": "2023_school/독서/수행평가/1반.md"
               }
             }
           }
@@ -162,9 +162,9 @@
   },
   "active": "861ff6d0a1b36de9",
   "lastOpenFiles": [
+    "학생 글 모음/지수환.md",
     "학생 글 모음",
     "해야 할 일.md",
-    "학생 글 모음/지수환.md",
     "평가 자료 생성.md",
     "README.md",
     "IDEA/동아리 개편.md",
