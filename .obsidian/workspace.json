@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023_school/독서/수행평가/1반.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023_school/독서/수행평가/1반.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023_school/독서/수행평가/1반.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023_school/독서/수행평가/1반.md"
+                "file": "README.md"
               }
             }
           }
@@ -151,24 +151,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "861ff6d0a1b36de9",
   "lastOpenFiles": [
+    "2023_school/독서/수행평가/1반.md",
     "학생 글 모음/지수환.md",
     "학생 글 모음",
     "해야 할 일.md",
     "평가 자료 생성.md",
     "README.md",
     "IDEA/동아리 개편.md",
-    "2023_school/독서/수행평가/1반.md",
     "블로그/초안들/국어교육에서의 chatgpt 활용2.md",
     "conflict-files-obsidian-git.md",
     "- 의견 수렴.md",
