@@ -30,9 +30,69 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ece7b6de024fd5c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023_school/세특/동아리/무제 파일.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8fc6d650a88004b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023_school/세특/동아리/무제 파일.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd157eba59803d33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023_school/세특/동아리/무제 파일 1 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "432d010c579fab32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023_school/세특/동아리/무제 파일 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e62204a123532036",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023_school/세특/동아리/무제 파일.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -98,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "미래교육 코칭티처 연수 관련 내용.md",
+                "file": "2023_school/세특/동아리/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "미래교육 코칭티처 연수 관련 내용.md",
+                "file": "2023_school/세특/동아리/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "미래교육 코칭티처 연수 관련 내용.md"
+                "file": "2023_school/세특/동아리/무제 파일.md"
               }
             }
           }
@@ -160,8 +220,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "861ff6d0a1b36de9",
+  "active": "97cb78d2d6bc8dda",
   "lastOpenFiles": [
+    "2023_school/세특/동아리/무제 파일 3.md",
+    "2023_school/세특/동아리/무제 파일 2.md",
+    "2023_school/세특/동아리/무제 파일 1 1.md",
+    "2023_school/세특/동아리/무제 파일.md",
+    "2023_school/세특/동아리",
+    "2023_school/세특/동아리/무제 파일 1.md",
+    "미래교육 코칭티처 연수 관련 내용.md",
     "2023_school/독서/수행평가/1반.md",
     "학생 글 모음/지수환.md",
     "학생 글 모음",
@@ -173,7 +240,6 @@
     "conflict-files-obsidian-git.md",
     "- 의견 수렴.md",
     "2023_school/독서/수행평가/4반.md",
-    "미래교육 코칭티처 연수 관련 내용.md",
     "독서 gpts.md",
     "블로그/초안들/국어교육에서의 chatgpt 활용.md",
     "블로그/글스타그램 자료/일상/옛 이야기.md",
@@ -183,10 +249,6 @@
     "2023_school/독서/수행평가/2-1반.md",
     "2023_school/독서/수행평가/2-4반.md",
     "블로그/글스타그램 자료/일상/수능 날.md",
-    "conflict-files-obsidian-git.md 15-04-11-952.md",
-    "conflict-files-obsidian-git.md 15-13-06-485.md",
-    "conflict-files-obsidian-git.md 15-03-28-165.md",
-    "conflict-files-obsidian-git.md 11-30-17-030.md",
-    "conflict-files-obsidian-git.md 10-25-31-851.md"
+    "conflict-files-obsidian-git.md 15-04-11-952.md"
   ]
 }
