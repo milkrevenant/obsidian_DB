@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f62fd829b3e5529c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "학생 글 모음/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "해야 할 일.md",
+                "file": "학생 글 모음/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "해야 할 일.md",
+                "file": "학생 글 모음/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "해야 할 일.md"
+                "file": "학생 글 모음/Untitled.md"
               }
             }
           }
@@ -160,13 +172,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "861ff6d0a1b36de9",
+  "active": "97cb78d2d6bc8dda",
   "lastOpenFiles": [
+    "해야 할 일.md",
+    "학생 글 모음/Untitled.md",
     "README.md",
     "2023_school/독서/수행평가/1반.md",
     "학생 글 모음/지수환.md",
     "학생 글 모음",
-    "해야 할 일.md",
     "평가 자료 생성.md",
     "IDEA/동아리 개편.md",
     "블로그/초안들/국어교육에서의 chatgpt 활용2.md",
