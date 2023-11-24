@@ -90,9 +90,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f7e9fa81f28124af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -158,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023_school/세특/동아리/김하은.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023_school/세특/동아리/김하은.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023_school/세특/동아리/김하은.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -220,12 +232,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e62204a123532036",
+  "active": "f7e9fa81f28124af",
   "lastOpenFiles": [
+    "2023_school/세특/동아리/김하은.md",
+    "conflict-files-obsidian-git.md",
     "2023_school/세특/동아리/박가은.md",
     "2023_school/세특/동아리/임해원.md",
     "2023_school/세특/동아리/최현석.md",
-    "2023_school/세특/동아리/김하은.md",
     "2023_school/세특/동아리/나미선.md",
     "2023_school/세특/동아리",
     "미래교육 코칭티처 연수 관련 내용.md",
@@ -237,7 +250,6 @@
     "README.md",
     "IDEA/동아리 개편.md",
     "블로그/초안들/국어교육에서의 chatgpt 활용2.md",
-    "conflict-files-obsidian-git.md",
     "- 의견 수렴.md",
     "2023_school/독서/수행평가/4반.md",
     "독서 gpts.md",
