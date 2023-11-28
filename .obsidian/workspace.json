@@ -1,140 +1,48 @@
 {
   "main": {
-    "id": "ffb2e4891774fb60",
+    "id": "28e94418e22edbc7",
     "type": "split",
     "children": [
       {
-        "id": "36a8715b4235989e",
+        "id": "ac267556467458cb",
         "type": "tabs",
         "children": [
           {
-            "id": "581d3b833235d86c",
+            "id": "04a54609f4fd60b7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "해야 할 일.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "861ff6d0a1b36de9",
+            "id": "109ddda57e34f489",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "미래교육 코칭티처 연수 관련 내용.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ece7b6de024fd5c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023_school/세특/동아리/박가은.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8fc6d650a88004b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023_school/세특/동아리/박가은.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd157eba59803d33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023_school/세특/동아리/최현석.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "432d010c579fab32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023_school/세특/동아리/임해원.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e62204a123532036",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023_school/세특/동아리/김하은.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f7e9fa81f28124af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f62fd829b3e5529c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "학생 글 모음/나미선.md",
+                "file": "전남형 미래학교 공모 사업 관련 설명.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-<<<<<<< HEAD
-        "currentTab": 7
-=======
-        "currentTab": 2
->>>>>>> 8b6a1321b82744d64f3598724f9ecd4de41e1111
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "38f63ad3eca89e41",
+    "id": "fe2d778607335a3a",
     "type": "split",
     "children": [
       {
-        "id": "a7521fa9c53e998c",
+        "id": "05a86a15e5ed17b9",
         "type": "tabs",
         "children": [
           {
-            "id": "97cb78d2d6bc8dda",
+            "id": "2071eedb01bf3023",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -144,7 +52,7 @@
             }
           },
           {
-            "id": "8d2e740a165085c4",
+            "id": "fc469169a36f492f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -159,7 +67,7 @@
             }
           },
           {
-            "id": "4a7afbefa80df793",
+            "id": "6530ba9029d07314",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -173,24 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "a6692a503728fcbe",
+    "id": "0f06f9848a5dadfa",
     "type": "split",
     "children": [
       {
-        "id": "e6b587066ffd7ad3",
+        "id": "1ab74fcc503367df",
         "type": "tabs",
         "children": [
           {
-            "id": "76f08d7dcd1f6777",
+            "id": "4e05e111f9f81bb0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "conflict-files-obsidian-git.md",
-=======
-                "file": "학생 글 모음/나미선.md",
->>>>>>> 8b6a1321b82744d64f3598724f9ecd4de41e1111
+                "file": "전남형 미래학교 공모 사업 관련 설명.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,23 +106,19 @@
             }
           },
           {
-            "id": "2c9c32523cc46ffe",
+            "id": "a545985c0633fa03",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "conflict-files-obsidian-git.md",
-=======
-                "file": "학생 글 모음/나미선.md",
->>>>>>> 8b6a1321b82744d64f3598724f9ecd4de41e1111
+                "file": "전남형 미래학교 공모 사업 관련 설명.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "c7f55bbfe1d96659",
+            "id": "00953609535260cb",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -229,16 +129,12 @@
             }
           },
           {
-            "id": "f00465c3e27575e6",
+            "id": "0da4f908ef641097",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "conflict-files-obsidian-git.md"
-=======
-                "file": "학생 글 모음/나미선.md"
->>>>>>> 8b6a1321b82744d64f3598724f9ecd4de41e1111
+                "file": "전남형 미래학교 공모 사업 관련 설명.md"
               }
             }
           }
@@ -251,51 +147,17 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:명령어 팔레트 열기": false
     }
   },
-<<<<<<< HEAD
-  "active": "f7e9fa81f28124af",
+  "active": "109ddda57e34f489",
   "lastOpenFiles": [
-    "2023_school/세특/동아리/김하은.md",
-    "conflict-files-obsidian-git.md",
-    "2023_school/세특/동아리/박가은.md",
-    "2023_school/세특/동아리/임해원.md",
-    "2023_school/세특/동아리/최현석.md",
-    "2023_school/세특/동아리/나미선.md",
-    "2023_school/세특/동아리",
-    "미래교육 코칭티처 연수 관련 내용.md",
-=======
-  "active": "f62fd829b3e5529c",
-  "lastOpenFiles": [
-    "해야 할 일.md",
-    "학생 글 모음/나미선.md",
-    "README.md",
->>>>>>> 8b6a1321b82744d64f3598724f9ecd4de41e1111
-    "2023_school/독서/수행평가/1반.md",
-    "학생 글 모음/지수환.md",
-    "학생 글 모음",
-    "평가 자료 생성.md",
-    "README.md",
-    "IDEA/동아리 개편.md",
-    "블로그/초안들/국어교육에서의 chatgpt 활용2.md",
-    "- 의견 수렴.md",
-    "2023_school/독서/수행평가/4반.md",
-    "독서 gpts.md",
-    "블로그/초안들/국어교육에서의 chatgpt 활용.md",
-    "블로그/글스타그램 자료/일상/옛 이야기.md",
-    "2023_school/독서/수행평가/2-6반.md",
-    "2023_school/독서/수행평가/2-2반.md",
-    "2023_school/독서/수행평가/2-5반.md",
-    "2023_school/독서/수행평가/2-1반.md",
-    "2023_school/독서/수행평가/2-4반.md",
-    "블로그/글스타그램 자료/일상/수능 날.md",
-    "conflict-files-obsidian-git.md 15-04-11-952.md"
+    "전남형 미래학교 공모 사업 관련 설명.md"
   ]
 }
