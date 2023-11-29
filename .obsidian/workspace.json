@@ -33,6 +33,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "출장 관련 일/미래교육 코칭티처 연수 관련 내용.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9cea1129dc58bfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "aiedap 연수 내용 정리.md",
                 "mode": "source",
                 "source": false
@@ -40,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -168,12 +180,18 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ccd15e5b5e6c659f",
+  "active": "a9cea1129dc58bfc",
   "lastOpenFiles": [
-    "README.md",
+    "출장 관련 일/미래교육 코칭티처 연수 관련 내용.md",
+    "출장 관련 일/전남형 미래학교 공모 사업 관련 설명.md",
+    "독서 gpts.md",
+    "출장 관련 일",
+    "- 의견 수렴.md",
+    "평가 자료 생성.md",
+    "해야 할 일.md",
     "aiedap 연수 내용 정리.md",
+    "README.md",
     "학생 글 모음/나미선.md",
-    "학생 글 모음/지수환.md",
-    "전남형 미래학교 공모 사업 관련 설명.md"
+    "학생 글 모음/지수환.md"
   ]
 }
