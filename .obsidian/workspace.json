@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aiedap 연수 내용 정리.md",
+                "file": "- 의견 수렴.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aiedap 연수 내용 정리.md",
+                "file": "- 의견 수렴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "aiedap 연수 내용 정리.md",
+                "file": "- 의견 수렴.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "aiedap 연수 내용 정리.md"
+                "file": "- 의견 수렴.md"
               }
             }
           }
@@ -182,14 +182,15 @@
   },
   "active": "a9cea1129dc58bfc",
   "lastOpenFiles": [
+    "평가 자료 생성.md",
+    "블로그/초안들/aiedap 연수 내용 정리.md",
+    "블로그/초안들/독서 gpts.md",
+    "무제 폴더",
     "출장 관련 일/미래교육 코칭티처 연수 관련 내용.md",
     "출장 관련 일/전남형 미래학교 공모 사업 관련 설명.md",
-    "독서 gpts.md",
     "출장 관련 일",
     "- 의견 수렴.md",
-    "평가 자료 생성.md",
     "해야 할 일.md",
-    "aiedap 연수 내용 정리.md",
     "README.md",
     "학생 글 모음/나미선.md",
     "학생 글 모음/지수환.md"
