@@ -21,14 +21,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "전남형 미래학교 공모 사업 관련 설명.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ccd15e5b5e6c659f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "aiedap 연수 내용 정리.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "전남형 미래학교 공모 사업 관련 설명.md",
+                "file": "aiedap 연수 내용 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "전남형 미래학교 공모 사업 관련 설명.md",
+                "file": "aiedap 연수 내용 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "전남형 미래학교 공모 사업 관련 설명.md"
+                "file": "aiedap 연수 내용 정리.md"
               }
             }
           }
@@ -156,8 +168,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "2071eedb01bf3023",
+  "active": "ccd15e5b5e6c659f",
   "lastOpenFiles": [
+    "README.md",
+    "aiedap 연수 내용 정리.md",
     "학생 글 모음/나미선.md",
     "학생 글 모음/지수환.md",
     "전남형 미래학교 공모 사업 관련 설명.md"
