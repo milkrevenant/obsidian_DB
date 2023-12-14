@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "블로그/초안들/aiedap 연수 내용 정리.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "블로그/초안들/aiedap 연수 내용 정리.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "블로그/초안들/aiedap 연수 내용 정리.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "블로그/초안들/aiedap 연수 내용 정리.md"
+                "file": "README.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "a9cea1129dc58bfc",
   "lastOpenFiles": [
+    "블로그/초안들/aiedap 연수 내용 정리.md",
     "출장 관련 일/미래교육 코칭티처 연수 관련 내용.md",
     "출장 관련 일/전남형 미래학교 공모 사업 관련 설명.md",
     "학생 글 모음/나미선.md",
@@ -166,7 +167,6 @@
     "README.md",
     "2023_school/독서/수행평가/3반.md",
     "IDEA/동아리 개편.md",
-    "블로그/초안들/aiedap 연수 내용 정리.md",
     "블로그/초안들/독서 gpts.md",
     "무제 폴더",
     "출장 관련 일"
