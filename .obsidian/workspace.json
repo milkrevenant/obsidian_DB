@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "해야 할 일.md",
+                "file": "블로그/초안들/aiedap 연수 내용 정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "해야 할 일.md",
+                "file": "블로그/초안들/aiedap 연수 내용 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "해야 할 일.md",
+                "file": "블로그/초안들/aiedap 연수 내용 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "해야 할 일.md"
+                "file": "블로그/초안들/aiedap 연수 내용 정리.md"
               }
             }
           }
@@ -149,6 +149,13 @@
   },
   "active": "a9cea1129dc58bfc",
   "lastOpenFiles": [
+    "출장 관련 일/미래교육 코칭티처 연수 관련 내용.md",
+    "출장 관련 일/전남형 미래학교 공모 사업 관련 설명.md",
+    "학생 글 모음/나미선.md",
+    "학생 글 모음/지수환.md",
+    "해야 할 일.md",
+    "전별금.md",
+    "평가 자료 생성.md",
     "2023_school/독서/수행평가/1반.md",
     "2023_school/독서/수행평가/2반.md",
     "2023_school/세특/동아리/박가은.md",
@@ -156,19 +163,12 @@
     "2023_school/세특/동아리/김하은.md",
     "2023_school/세특/동아리/나미선.md",
     "2023_school/세특/동아리/최현석.md",
-    "출장 관련 일/미래교육 코칭티처 연수 관련 내용.md",
     "README.md",
     "2023_school/독서/수행평가/3반.md",
-    "출장 관련 일/전남형 미래학교 공모 사업 관련 설명.md",
-    "해야 할 일.md",
     "IDEA/동아리 개편.md",
-    "평가 자료 생성.md",
-    "전별금.md",
     "블로그/초안들/aiedap 연수 내용 정리.md",
     "블로그/초안들/독서 gpts.md",
     "무제 폴더",
-    "출장 관련 일",
-    "학생 글 모음/나미선.md",
-    "학생 글 모음/지수환.md"
+    "출장 관련 일"
   ]
 }
