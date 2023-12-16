@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDEA/제안사항.md",
+                "file": "2023_school/세특/2023 독서 자료/구술평가 배포용.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "67deffffc50b0557",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023_school/세특/독서1반.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IDEA/제안사항.md",
+                "file": "2023_school/세특/독서1반.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IDEA/제안사항.md",
+                "file": "2023_school/세특/독서1반.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IDEA/제안사항.md"
+                "file": "2023_school/세특/독서1반.md"
               }
             }
           }
@@ -147,8 +160,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a9cea1129dc58bfc",
+  "active": "67deffffc50b0557",
   "lastOpenFiles": [
+    "2023_school/세특/2023 독서 자료/구술평가 배포용.md",
+    "2023_school/세특/독서1반.md",
+    "2023_school/독서/수행평가/1반.md",
+    "2023_school/독서/수행평가/2반.md",
+    "IDEA/제안사항.md",
     "해야 할 일.md",
     "README.md",
     "2023_school/독서/평가원 제재별 질문 목록(수업활용).md",
@@ -159,14 +177,11 @@
     "2023_school/독서/작가와의 대화 자료/작가와의대화qr.png",
     "출장 관련 일/미래교육 코칭티처 연수 관련 내용.md",
     "출장 관련 일/전남형 미래학교 공모 사업 관련 설명.md",
-    "IDEA/제안사항.md",
     "전별금.md",
     "평가 자료 생성.md",
     "블로그/초안들/aiedap 연수 내용 정리.md",
     "학생 글 모음/나미선.md",
     "학생 글 모음/지수환.md",
-    "2023_school/독서/수행평가/1반.md",
-    "2023_school/독서/수행평가/2반.md",
     "2023_school/세특/동아리/박가은.md",
     "2023_school/세특/동아리/임해원.md",
     "2023_school/세특/동아리/김하은.md",
