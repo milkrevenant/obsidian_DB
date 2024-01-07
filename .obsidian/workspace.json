@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "출장 관련 일/전남형 미래학교 공모 사업 관련 설명.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f89718dc79929bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "결혼/비용 기록.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "출장 관련 일/전남형 미래학교 공모 사업 관련 설명.md",
+                "file": "결혼/비용 기록.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "출장 관련 일/전남형 미래학교 공모 사업 관련 설명.md",
+                "file": "결혼/비용 기록.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "출장 관련 일/전남형 미래학교 공모 사업 관련 설명.md"
+                "file": "결혼/비용 기록.md"
               }
             }
           }
@@ -160,12 +172,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "67deffffc50b0557",
+  "active": "0f89718dc79929bd",
   "lastOpenFiles": [
+    "결혼",
+    "README.md",
+    "결혼/비용 기록.md",
+    "출장 관련 일/전남형 미래학교 공모 사업 관련 설명.md",
     "2023_school/독서/수행평가/1반.md",
     "2023_school/독서/수행평가/5반.md",
     "2023_school/세특/2023 독서 자료/구술평가 배포용.md",
-    "README.md",
     "2023_school/독서/수행평가/6반.md",
     "평가 자료 생성.md",
     "해야 할 일.md",
@@ -180,7 +195,6 @@
     "2023_school/독서/작가와의 대화 자료/작가와의대화qr2.png",
     "2023_school/독서/작가와의 대화 자료/작가와의대화qr.png",
     "출장 관련 일/미래교육 코칭티처 연수 관련 내용.md",
-    "출장 관련 일/전남형 미래학교 공모 사업 관련 설명.md",
     "전별금.md",
     "블로그/초안들/aiedap 연수 내용 정리.md",
     "학생 글 모음/나미선.md",
@@ -188,9 +202,6 @@
     "2023_school/세특/동아리/박가은.md",
     "2023_school/세특/동아리/임해원.md",
     "2023_school/세특/동아리/김하은.md",
-    "2023_school/세특/동아리/나미선.md",
-    "2023_school/세특/동아리/최현석.md",
-    "무제 폴더",
     "출장 관련 일"
   ]
 }
