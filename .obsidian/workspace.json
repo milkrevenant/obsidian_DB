@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "결혼/비용 기록.md",
+                "file": "해야 할 일.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "결혼/비용 기록.md",
+                "file": "해야 할 일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "결혼/비용 기록.md",
+                "file": "해야 할 일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "결혼/비용 기록.md"
+                "file": "해야 할 일.md"
               }
             }
           }
@@ -174,9 +174,9 @@
   },
   "active": "0f89718dc79929bd",
   "lastOpenFiles": [
+    "결혼/비용 기록.md",
     "결혼",
     "README.md",
-    "결혼/비용 기록.md",
     "출장 관련 일/전남형 미래학교 공모 사업 관련 설명.md",
     "2023_school/독서/수행평가/1반.md",
     "2023_school/독서/수행평가/5반.md",
