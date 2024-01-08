@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "대학원 및 연수/부스트코스(boostcourse).md",
+                "file": "대학원 및 연수/해야 할 일.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0f06f9848a5dadfa",
@@ -158,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "대학원 및 연수/부스트코스(boostcourse).md",
+                "file": "대학원 및 연수/해야 할 일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "대학원 및 연수/부스트코스(boostcourse).md",
+                "file": "대학원 및 연수/해야 할 일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "대학원 및 연수/부스트코스(boostcourse).md"
+                "file": "대학원 및 연수/해야 할 일.md"
               }
             }
           }
@@ -223,7 +224,7 @@
   "active": "a2cc86d748b3aff5",
   "lastOpenFiles": [
     "대학원 및 연수/연수/성취평가 연수.md",
-    "대학원 및 연수/부스트코스(boostcourse).md",
+    "대학원 및 연수/해야 할 일.md",
     "대학원 및 연수/대학원/인공지능 프로그래밍 11 내용.md",
     "adobe 계정.md",
     "대학원 및 연수/연수",
