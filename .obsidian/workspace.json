@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cf53355ac1abb72c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "대학원 및 연수/대학원/무제 파일.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adobe 계정.md",
+                "file": "대학원 및 연수/대학원/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "adobe 계정.md",
+                "file": "대학원 및 연수/대학원/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adobe 계정.md"
+                "file": "대학원 및 연수/대학원/무제 파일.md"
               }
             }
           }
@@ -184,10 +196,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "21adeffd8a258813",
+  "active": "2071eedb01bf3023",
   "lastOpenFiles": [
-    "해야 할 일.md",
     "adobe 계정.md",
+    "대학원 및 연수/대학원/무제 파일.md",
+    "대학원 및 연수/연수",
+    "대학원 및 연수/대학원",
+    "대학원 및 연수",
+    "해야 할 일.md",
     "결혼/비용 기록.md",
     "결혼",
     "README.md",
@@ -214,7 +230,6 @@
     "학생 글 모음/지수환.md",
     "2023_school/세특/동아리/박가은.md",
     "2023_school/세특/동아리/임해원.md",
-    "2023_school/세특/동아리/김하은.md",
     "출장 관련 일"
   ]
 }
