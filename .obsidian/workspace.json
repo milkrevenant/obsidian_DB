@@ -73,14 +73,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "대학원 및 연수/대학원/인공지능 프로그래밍 11 내용.md",
+                "file": "대학원 및 연수/연수/성취평가 연수.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2cc86d748b3aff5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "대학원 및 연수/부스트코스(boostcourse).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -130,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0f06f9848a5dadfa",
@@ -147,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "대학원 및 연수/대학원/인공지능 프로그래밍 11 내용.md",
+                "file": "대학원 및 연수/부스트코스(boostcourse).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "대학원 및 연수/대학원/인공지능 프로그래밍 11 내용.md",
+                "file": "대학원 및 연수/부스트코스(boostcourse).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "대학원 및 연수/대학원/인공지능 프로그래밍 11 내용.md"
+                "file": "대학원 및 연수/부스트코스(boostcourse).md"
               }
             }
           }
@@ -209,9 +220,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "41e16c96abf116fb",
+  "active": "a2cc86d748b3aff5",
   "lastOpenFiles": [
     "대학원 및 연수/연수/성취평가 연수.md",
+    "대학원 및 연수/부스트코스(boostcourse).md",
     "대학원 및 연수/대학원/인공지능 프로그래밍 11 내용.md",
     "adobe 계정.md",
     "대학원 및 연수/연수",
@@ -242,7 +254,6 @@
     "블로그/초안들/aiedap 연수 내용 정리.md",
     "학생 글 모음/나미선.md",
     "학생 글 모음/지수환.md",
-    "2023_school/세특/동아리/박가은.md",
     "출장 관련 일"
   ]
 }
