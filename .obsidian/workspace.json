@@ -194,8 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,7 +207,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2071eedb01bf3023",
+  "active": "41e16c96abf116fb",
   "lastOpenFiles": [
     "대학원 및 연수/연수/성취평가 연수.md",
     "대학원 및 연수/대학원/인공지능 프로그래밍 11 내용.md",
