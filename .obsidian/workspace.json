@@ -61,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "대학원 및 연수/대학원/무제 파일.md",
+                "file": "대학원 및 연수/대학원/인공지능 프로그래밍 11 내용.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "41e16c96abf116fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "대학원 및 연수/대학원/인공지능 프로그래밍 11 내용.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "대학원 및 연수/대학원/무제 파일.md",
+                "file": "대학원 및 연수/대학원/인공지능 프로그래밍 11 내용.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "대학원 및 연수/대학원/무제 파일.md",
+                "file": "대학원 및 연수/대학원/인공지능 프로그래밍 11 내용.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "대학원 및 연수/대학원/무제 파일.md"
+                "file": "대학원 및 연수/대학원/인공지능 프로그래밍 11 내용.md"
               }
             }
           }
@@ -198,8 +210,9 @@
   },
   "active": "2071eedb01bf3023",
   "lastOpenFiles": [
+    "대학원 및 연수/연수/성취평가 연수.md",
+    "대학원 및 연수/대학원/인공지능 프로그래밍 11 내용.md",
     "adobe 계정.md",
-    "대학원 및 연수/대학원/무제 파일.md",
     "대학원 및 연수/연수",
     "대학원 및 연수/대학원",
     "대학원 및 연수",
@@ -229,7 +242,6 @@
     "학생 글 모음/나미선.md",
     "학생 글 모음/지수환.md",
     "2023_school/세특/동아리/박가은.md",
-    "2023_school/세특/동아리/임해원.md",
     "출장 관련 일"
   ]
 }
