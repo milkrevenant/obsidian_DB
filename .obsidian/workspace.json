@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "50a95538ab0db429",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,7 +170,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "67deffffc50b0557",
+  "active": "50a95538ab0db429",
   "lastOpenFiles": [
     "2023_school/독서/수행평가/1반.md",
     "2023_school/독서/수행평가/5반.md",
