@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a9cea1129dc58bfc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023_school/세특/2023 독서 자료/구술평가 배포용.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "67deffffc50b0557",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "출장 관련 일/전남형 미래학교 공모 사업 관련 설명.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "50a95538ab0db429",
             "type": "leaf",
             "state": {
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,6 +149,9 @@
   },
   "active": "50a95538ab0db429",
   "lastOpenFiles": [
+    "2023_school/세특/2023 독서 자료/구술평가 배포용.md",
+    "출장 관련 일/전남형 미래학교 공모 사업 관련 설명.md",
+    "대학원 내용 추가.md",
     "2023_school/국어외/kentech alc 과제.md",
     "2023_school/국어외/인텔 포럼 요약 내용.md",
     "평가 자료 생성.md",
@@ -184,12 +162,10 @@
     "2023_school/세특/동아리/임해원.md",
     "2023_school/세특/동아리/나미선.md",
     "2023_school/세특/동아리/김하은.md",
-    "대학원 내용 추가.md",
     "블로그/초안들/국어교육에서의 chatgpt 활용.md",
     "블로그/초안들/국어교육에서의 chatgpt 활용2.md",
     "블로그/초안들/독서 gpts.md",
     "블로그/초안들/aiedap 연수 내용 정리.md",
-    "출장 관련 일/전남형 미래학교 공모 사업 관련 설명.md",
     "출장 관련 일/미래교육 코칭티처 연수 관련 내용.md",
     "IDEA/제안사항.md",
     "해야 할 일.md",
@@ -197,7 +173,6 @@
     "전별금.md",
     "2023_school/독서/수행평가/1반.md",
     "2023_school/독서/수행평가/5반.md",
-    "2023_school/세특/2023 독서 자료/구술평가 배포용.md",
     "2023_school/독서/수행평가/6반.md",
     "conflict-files-obsidian-git.md",
     "2023_school/세특/독서1반.md",
