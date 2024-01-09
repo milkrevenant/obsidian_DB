@@ -37,26 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "평가 자료 생성.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56445b0bf204da1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "대학원 내용 추가.md",
+                "file": "2023_school/국어외/kentech alc 과제.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "대학원 내용 추가.md",
+                "file": "2023_school/국어외/kentech alc 과제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "대학원 내용 추가.md",
+                "file": "2023_school/국어외/kentech alc 과제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "대학원 내용 추가.md"
+                "file": "2023_school/국어외/kentech alc 과제.md"
               }
             }
           }
@@ -184,9 +172,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "56445b0bf204da1b",
+  "active": "50a95538ab0db429",
   "lastOpenFiles": [
+    "2023_school/국어외/인텔 포럼 요약 내용.md",
     "평가 자료 생성.md",
+    "2023_school/국어외/연구수업 피드백.md",
+    "2023_school/국어외/창의융합원 발표자료/창의융합원 발표자료.md",
+    "2023_school/국어외/창의융합원 발표자료/창의융합원 자료1.png",
+    "2023_school/세특/동아리/최현석.md",
+    "2023_school/세특/동아리/임해원.md",
+    "2023_school/세특/동아리/나미선.md",
+    "2023_school/세특/동아리/김하은.md",
     "대학원 내용 추가.md",
     "블로그/초안들/국어교육에서의 chatgpt 활용.md",
     "블로그/초안들/국어교육에서의 chatgpt 활용2.md",
@@ -205,15 +201,8 @@
     "conflict-files-obsidian-git.md",
     "2023_school/세특/독서1반.md",
     "2023_school/독서/수행평가/2반.md",
-    "2023_school/독서/평가원 제재별 질문 목록(수업활용).md",
-    "2023_school/독서/해야 할 일.md",
-    "2023_school/독서/공개수업 자료준비.md",
-    "2023_school/독서/작가와의 대화 자료/작가와의 대화 일정.md",
     "2023_school/독서/작가와의 대화 자료/작가와의대화qr2.png",
     "2023_school/독서/작가와의 대화 자료/작가와의대화qr.png",
-    "학생 글 모음/나미선.md",
-    "학생 글 모음/지수환.md",
-    "2023_school/세특/동아리/박가은.md",
     "무제 폴더",
     "출장 관련 일"
   ]
