@@ -8,11 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a9cea1129dc58bfc",
+            "id": "50a95538ab0db429",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "2023_school/세특/2023 독서 자료/구술평가 배포용.md",
                 "mode": "source",
                 "source": false
@@ -86,13 +87,20 @@
               "type": "markdown",
               "state": {
                 "file": "대학원 및 연수/해야 할 일.md",
+=======
+                "file": "대학원 내용 추가.md",
+>>>>>>> a29fb73d16ea2431665af18e202bdbd2fee07213
                 "mode": "source",
                 "source": false
               }
             }
           }
+<<<<<<< HEAD
         ],
         "currentTab": 6
+=======
+        ]
+>>>>>>> a29fb73d16ea2431665af18e202bdbd2fee07213
       }
     ],
     "direction": "vertical"
@@ -159,7 +167,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "대학원 및 연수/해야 할 일.md",
+=======
+                "file": "대학원 내용 추가.md",
+>>>>>>> a29fb73d16ea2431665af18e202bdbd2fee07213
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +188,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "대학원 및 연수/해야 할 일.md",
+=======
+                "file": "대학원 내용 추가.md",
+>>>>>>> a29fb73d16ea2431665af18e202bdbd2fee07213
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +215,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "대학원 및 연수/해야 할 일.md"
+=======
+                "file": "대학원 내용 추가.md"
+>>>>>>> a29fb73d16ea2431665af18e202bdbd2fee07213
               }
             }
           }
@@ -221,6 +241,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
+<<<<<<< HEAD
   "active": "a2cc86d748b3aff5",
   "lastOpenFiles": [
     "대학원 및 연수/연수/성취평가 연수.md",
@@ -240,21 +261,48 @@
     "2023_school/세특/2023 독서 자료/구술평가 배포용.md",
     "2023_school/독서/수행평가/6반.md",
     "평가 자료 생성.md",
+=======
+  "active": "50a95538ab0db429",
+  "lastOpenFiles": [
+    "2023_school/세특/2023 독서 자료/구술평가 배포용.md",
+    "출장 관련 일/전남형 미래학교 공모 사업 관련 설명.md",
+    "대학원 내용 추가.md",
+    "2023_school/국어외/kentech alc 과제.md",
+    "2023_school/국어외/인텔 포럼 요약 내용.md",
+    "평가 자료 생성.md",
+    "2023_school/국어외/연구수업 피드백.md",
+    "2023_school/국어외/창의융합원 발표자료/창의융합원 발표자료.md",
+    "2023_school/국어외/창의융합원 발표자료/창의융합원 자료1.png",
+    "2023_school/세특/동아리/최현석.md",
+    "2023_school/세특/동아리/임해원.md",
+    "2023_school/세특/동아리/나미선.md",
+    "2023_school/세특/동아리/김하은.md",
+    "블로그/초안들/국어교육에서의 chatgpt 활용.md",
+    "블로그/초안들/국어교육에서의 chatgpt 활용2.md",
+    "블로그/초안들/독서 gpts.md",
+    "블로그/초안들/aiedap 연수 내용 정리.md",
+    "출장 관련 일/미래교육 코칭티처 연수 관련 내용.md",
+    "IDEA/제안사항.md",
+    "해야 할 일.md",
+    "README.md",
+    "전별금.md",
+    "2023_school/독서/수행평가/1반.md",
+    "2023_school/독서/수행평가/5반.md",
+    "2023_school/독서/수행평가/6반.md",
+>>>>>>> a29fb73d16ea2431665af18e202bdbd2fee07213
     "conflict-files-obsidian-git.md",
     "2023_school/세특/독서1반.md",
-    "2023_school/독서/수행평가/2반.md",
-    "IDEA/제안사항.md",
-    "2023_school/독서/평가원 제재별 질문 목록(수업활용).md",
-    "2023_school/독서/해야 할 일.md",
-    "2023_school/독서/공개수업 자료준비.md",
-    "2023_school/독서/작가와의 대화 자료/작가와의 대화 일정.md",
     "2023_school/독서/작가와의 대화 자료/작가와의대화qr2.png",
     "2023_school/독서/작가와의 대화 자료/작가와의대화qr.png",
+<<<<<<< HEAD
     "출장 관련 일/미래교육 코칭티처 연수 관련 내용.md",
     "전별금.md",
     "블로그/초안들/aiedap 연수 내용 정리.md",
     "학생 글 모음/나미선.md",
     "학생 글 모음/지수환.md",
+=======
+    "무제 폴더",
+>>>>>>> a29fb73d16ea2431665af18e202bdbd2fee07213
     "출장 관련 일"
   ]
 }
